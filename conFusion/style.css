@@ -68,5 +68,9 @@ address{
     
     padding: 0;
 }
-
-
+@media (max-width: 320px){
+    .sty{
+        text-align: center;
+        padding: 15px;
+    }
+}
