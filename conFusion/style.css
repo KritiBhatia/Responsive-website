@@ -66,7 +66,7 @@ address{
 }
 .ch{
     
-    padding: 0;
+    padding: 0px 0px 0px 15px;
 }
 @media (max-width: 320px){
     .sty{
